@@ -2,6 +2,32 @@
 
 Ciao, qui trovi i link e delle brevi descrizioni dei **dataset** che ti consigliamo per sviluppare il tuo progetto. Clicca su quello che trovi più interessante, leggi le informazioni che vengono fornite sul sito che lo ospita e parti con l'esplorazione. Buon lavoro.
 
+## 👦🏾 👧 Giovani.stat
+Le statistiche prodotte dall'Istat sui giovani dai 15 ai 34 anni 
+> [Dataset](http://dati-giovani.istat.it/)
+
+
+
+## 🏫 🎒 Il Portale Unico dei Dati della Scuola
+I dati pubblici del sistema nazionale di istruzione e formazione
+> [Dataset](https://dati.istruzione.it/opendata/opendata/catalogo/#Scuola)
+
+
+
+## 🦠 Dati COVID-19 Italia
+
+I dati del Governo sulla diffusione del virus in Italia, regioni e province.
+> [Dataset](https://github.com/pcm-dpc/COVID-19)
+
+
+
+## 💉 Covid-19 Opendata Vaccini
+
+I dati del Governo sull'andamento della campagna vaccinale.
+> [Dataset](https://github.com/italia/covid19-opendata-vaccini)
+
+
+
 
 ## 🌡️🌎 Climate Change: Earth Surface Temperature Data
 
@@ -30,32 +56,10 @@ Il dataset penguins_size.csv contiene le misurazioni di 3 specie di pinguini oss
 > [Dataset](https://www.kaggle.com/parulpandey/palmer-archipelago-antarctica-penguin-data?select=penguins_size.csv)
 
 
-
-## ![Pokemon](/assets/images/jolteon.gif) The Complete Pokemon Dataset
-
-I dati su 7 generazioni di pokemon.
-> [Dataset](https://www.kaggle.com/rounakbanik/pokemon?select=pokemon.csv)
-
-
-
 ## 🤺 🏊‍♀️ Olympic history: athletes and results
 
 Dai biografici degli atleti e medaglie da Atene 1896 a Rio 2012.
 > [Dataset](https://public.tableau.com/s/sites/default/files/media/Resources/Summer_Olympic_medallists_1896-2008.xlsx)
-
-
-
-## 🦠 Dati COVID-19 Italia
-
-I dati del Governo sulla diffusione del virus in Italia, regioni e province.
-> [Dataset](https://github.com/pcm-dpc/COVID-19)
-
-
-
-## 💉 Covid-19 Opendata Vaccini
-
-I dati del Governo sull'andamento della campagna vaccinale.
-> [Dataset](https://github.com/italia/covid19-opendata-vaccini)
 
 
 
@@ -66,8 +70,19 @@ I vincitori del premio Oscar come miglior attore e miglior attrice.
 
 
 
+## ![Pokemon](/assets/images/jolteon.gif) The Complete Pokemon Dataset
+
+I dati su 7 generazioni di pokemon.
+> [Dataset](https://www.kaggle.com/rounakbanik/pokemon?select=pokemon.csv)
+
+
+
 ## 🌌👨‍🚀 Star Wars Character Details
 
-Le caratteristiche dei personaggi della saga di Star Wars.
-> [Dataset](https://public.tableau.com/s/sites/default/files/media/starwarscharacterdata.json)
+Le caratteristiche di personaggi, astronavi e pianeti della saga di Star Wars.
+> [Dataset](https://www.kaggle.com/jsphyg/star-wars)
 
+
+## 🎃 🍬 The Ultimate Halloween Candy Power Ranking
+Un dataset sui dolcetti più popolari ad Halloween.
+> [Dataset](https://www.kaggle.com/fivethirtyeight/the-ultimate-halloween-candy-power-ranking)
