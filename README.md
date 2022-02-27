@@ -2,10 +2,12 @@
 
 Ciao, qui trovi i link e delle brevi descrizioni dei **dataset** che ti consigliamo per sviluppare il tuo progetto. Clicca su quello che trovi più interessante, leggi le informazioni che vengono fornite sul sito che lo ospita e parti con l'esplorazione. Buon lavoro.
 
+
 ## 🌡️🌎 Climate Change: Earth Surface Temperature Data
 
 Analizza le temperature globali dal 1750 ai giorni nostri
 > [Dataset](https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data?select=GlobalTemperatures.csv)
+
 
 
 ## 🚗🏭 Emissions Dataset Project
