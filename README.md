@@ -19,7 +19,7 @@ Le missioni di inquinanti per tipologia, anno e Paese.
 
 ## 🐿️🗽 NYC Squirrel Census
 
-Scopri come vivono e cosa fanno gli di New York
+Scopri come vivono e cosa fanno gli di New York.
 > [Dataset](https://github.com/rfordatascience/tidytuesday/tree/master/data/2019/2019-10-29)
 
 
@@ -33,7 +33,7 @@ Il dataset penguins_size.csv contiene le misurazioni di 3 specie di pinguini oss
 
 ## ![Pokemon](/assets/images/jolteon.gif) The Complete Pokemon Dataset
 
-I dati su 7 generazioni di pokemon
+I dati su 7 generazioni di pokemon.
 > [Dataset](https://www.kaggle.com/rounakbanik/pokemon?select=pokemon.csv)
 
 
@@ -41,7 +41,7 @@ I dati su 7 generazioni di pokemon
 ## 🤺 🏊‍♀️ Olympic history: athletes and results
 
 Dai biografici degli atleti e medaglie da Atene 1896 a Rio 2012.
-[Dataset](https://public.tableau.com/s/sites/default/files/media/Resources/Summer_Olympic_medallists_1896-2008.xlsx)
+> [Dataset](https://public.tableau.com/s/sites/default/files/media/Resources/Summer_Olympic_medallists_1896-2008.xlsx)
 
 
 
@@ -61,13 +61,13 @@ I dati del Governo sull'andamento della campagna vaccinale.
 
 ## 🎥 🎬 Oscar winners, 1929 to 2018
 
-I vincitori del premio Oscar come miglior attore e miglior attrice
+I vincitori del premio Oscar come miglior attore e miglior attrice.
 > [Dataset](https://www.openintro.org/data/index.php?data=oscars)
 
 
 
 ## 🌌👨‍🚀 Star Wars Character Details
 
-Le caratteristiche dei personaggi della saga di Star Wars
+Le caratteristiche dei personaggi della saga di Star Wars.
 > [Dataset](https://public.tableau.com/s/sites/default/files/media/starwarscharacterdata.json)
 
