@@ -14,7 +14,7 @@ I dati pubblici del sistema nazionale di istruzione e formazione
 > [Dataset](https://dati.istruzione.it/opendata/opendata/catalogo/#Scuola)
 
 
-## Open Data Comune di Milano
+## ![Pokemon](/assets/images/logo_milano.png) Open Data Comune di Milano
 I dati sulla tua città messi a disposizione dal Comune
 > [Dataset](https://dati.comune.milano.it/)
 
