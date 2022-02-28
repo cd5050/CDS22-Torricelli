@@ -1,6 +1,6 @@
 # CDS22 - Istituto Torricelli 4ALSA
 
-Ciao, qui trovi i link e delle brevi descrizioni dei **dataset** che ti consigliamo per sviluppare il tuo progetto. Clicca su quello che trovi più interessante, leggi le informazioni che vengono fornite sul sito che lo ospita e parti con l'esplorazione. Buon lavoro.
+Ciao, qui trovi i link e delle brevi descrizioni dei **dataset** che ti proponiamo per sviluppare il tuo progetto. Clicca sui vari link, leggi le informazioni che vengono fornite sul sito che ospita quei dati, cerca di capire se sono di tuoi interesse, come scaricarli o agganciarli e parti con l'esplorazione. Buon lavoro.
 
 
 ## 👦🏾 👧 Giovani.stat
