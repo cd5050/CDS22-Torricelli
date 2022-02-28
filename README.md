@@ -1,6 +1,6 @@
 # CDS22 - Istituto Torricelli 4ALSA
 
-Ciao, qui trovi i link e delle brevi descrizioni dei **dataset** che ti proponiamo per sviluppare il tuo progetto. Clicca sui vari link, leggi le informazioni che vengono fornite sul sito che ospita quei dati, cerca di capire se sono di tuoi interesse, come scaricarli o agganciarli e parti con l'esplorazione. Buon lavoro.
+Ciao, qui trovi i link e delle brevi descrizioni dei **dataset** che ti proponiamo per sviluppare il tuo progetto. Clicca sui vari link, leggi le informazioni che vengono fornite sul sito che ospita quei dati, cerca di capire se sono di tuoi interesse, come scaricarli o agganciarli e parti con l'esplorazione. In caso di dubbi possiamo valutare insieme l'approccio migliore. Buon lavoro.
 
 
 ## 👦🏾 👧 Giovani.stat
@@ -34,11 +34,17 @@ I dati del Governo sull'andamento della campagna vaccinale
 
 
 
+## ![Banca d'Italia](/assets/images/logo_bankitalia.jpg) Banca d'Italia
+
+L'indagine sui bilanci delle famiglie italiane
+> [Dataset](https://github.com/italia/covid19-opendata-vaccini)
+
+
 
 ## 🌡️🌎 Climate Change: Earth Surface Temperature Data
 
 Analizza le temperature globali dal 1750 ai giorni nostri
-> [Dataset](https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data?select=GlobalTemperatures.csv)
+> [Dataset](https://www.bancaditalia.it/statistiche/tematiche/indagini-famiglie-imprese/bilanci-famiglie/distribuzione-microdati/index.html?dotcache=refresh)
 
 
 
