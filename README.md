@@ -33,6 +33,10 @@ I dati del Governo sull'andamento della campagna vaccinale
 > [Dataset](https://github.com/italia/covid19-opendata-vaccini)
 
 
+## 🚸 #IoTornoaScuola
+I dati del Ministero dell'Istruzione sul monitoraggio Covid-19 in ambito scolastico
+> [Dataset](https://www.istruzione.it/iotornoascuola/monitoraggi.html)
+
 
 ## ![Banca d'Italia](/assets/images/logo_bankitalia.jpg) Banca d'Italia
 
