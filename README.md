@@ -44,14 +44,7 @@ L'indagine sui bilanci delle famiglie italiane
 > [Dataset](https://github.com/italia/covid19-opendata-vaccini)
 
 
-
-## 🚸 #IoTornoaScuola
-
-I dati del Ministero dell'Istruzione sul monitoraggio Covid-19 in ambito scolastico
-> [Dataset](https://www.istruzione.it/iotornoascuola/monitoraggi.html)
-
-
-## War in Ukraina
+## 🇺🇦 War in Ukraina
 
 Una serie di dataset sul contesto socio-economico
 > [Dataset](https://ourworldindata.org/ukraine-war)
@@ -59,8 +52,14 @@ Una serie di dataset sul contesto socio-economico
 I dati di UNHCR sui rifugiati
 > [Dataset](https://data2.unhcr.org/en/situations/ukraine)
 
-Il monitoraggio sulle sanzioni imposte alla Russia:
+Il monitoraggio sulle sanzioni imposte alla Russia
 > [Dataset](https://correctiv.org/en/latest-stories/2022/03/01/sanctions-tracker-live-monitoring-of-all-sanctions-against-russia/)
+
+
+## 💡🇪🇺 Statistiche Eurostat sull'energia
+
+Gli indicatori energetici più importanti e il confronto tra l'Italia e gli altri paesi dell'Ue
+> [Dataset](https://ec.europa.eu/eurostat/web/energy/overview)
 
 
 
