@@ -45,6 +45,25 @@ L'indagine sui bilanci delle famiglie italiane
 
 
 
+## 🚸 #IoTornoaScuola
+
+I dati del Ministero dell'Istruzione sul monitoraggio Covid-19 in ambito scolastico
+> [Dataset](https://www.istruzione.it/iotornoascuola/monitoraggi.html)
+
+
+## War in Ukraina
+
+Una serie di dataset sul contesto socio-economico
+> [Dataset](https://ourworldindata.org/ukraine-war)
+
+I dati di UNHCR sui rifugiati
+> [Dataset](https://data2.unhcr.org/en/situations/ukraine)
+
+Il monitoraggio sulle sanzioni imposte alla Russia:
+> [Dataset](https://correctiv.org/en/latest-stories/2022/03/01/sanctions-tracker-live-monitoring-of-all-sanctions-against-russia/)
+
+
+
 ## 🌡️🌎 Climate Change: Earth Surface Temperature Data
 
 Analizza le temperature globali dal 1750 ai giorni nostri
