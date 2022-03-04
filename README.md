@@ -58,7 +58,7 @@ Il monitoraggio sulle sanzioni imposte alla Russia
 
 ## 💡🇪🇺 Statistiche Eurostat sull'energia
 
-Gli indicatori energetici più importanti e il confronto tra l'Italia e gli altri paesi dell'Ue
+Gli indicatori energetici più importanti e il confronto tra Italia e gli altri paesi dell'Ue
 > [Dataset](https://ec.europa.eu/eurostat/web/energy/overview)
 
 
