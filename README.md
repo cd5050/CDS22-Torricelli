@@ -133,9 +133,3 @@ I personaggi e le battaglie della serie Game of Thrones
 
 Personaggi e incantesimi dei film
 > [Dataset](https://www.kaggle.com/maricinnamon/harry-potter-movies-dataset)
-
-
-
-## 🎃 🍬 The Ultimate Halloween Candy Power Ranking
-Un dataset sui dolcetti più popolari ad Halloween
-> [Dataset](https://www.kaggle.com/fivethirtyeight/the-ultimate-halloween-candy-power-ranking)
