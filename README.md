@@ -79,7 +79,7 @@ Le missioni di inquinanti per tipologia, anno e Paese
 
 ## 🐿️🗽 NYC Squirrel Census
 
-Scopri come vivono e cosa fanno gli di New York
+Scopri come vivono e cosa fanno gli scoiattoli di New York
 > [Dataset](https://github.com/rfordatascience/tidytuesday/tree/master/data/2019/2019-10-29)
 
 
