@@ -76,6 +76,11 @@ Le missioni di inquinanti per tipologia, anno e Paese
 > [Dataset](https://think.cs.vt.edu/corgis/csv/emissions/)
 
 
+## OECD
+I dataset dell'Organizzazione per la Cooperazione e lo Sviluppo Economico sul benessere economico e sociale dei cittadini
+> [Dataset](https://data.oecd.org/)
+
+
 
 ## 🐿️🗽 NYC Squirrel Census
 
